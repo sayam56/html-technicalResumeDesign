@@ -43,13 +43,11 @@ body {
 }
 
 #leftSide {
-  float: left;
   width: 51%;
   display: inline-block;
 }
 
 #rightSide {
-  float: right;
   width: 48%;
   display: inline-block;
 }
